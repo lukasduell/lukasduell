@@ -1,6 +1,6 @@
 ## Hi there, my name is Lukas ✌️
 
-I live in Cologne, Germany, with a passion for music, frontend development, and everything in between.
+I live in Cologne, Germany, with a passion for music, frontend development, and everything in between.  
 Currently starting to develop audio software.
 
 👨‍💻 Frontend Developer
