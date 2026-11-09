@@ -7,5 +7,3 @@ I live in Cologne, Germany, with a passion for music, coding and everything in b
 🎛️ Audio Engineer
 
 🎸 Musician
-
-🎵 Working on audio plugins
